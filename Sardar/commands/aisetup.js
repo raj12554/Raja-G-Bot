@@ -30,7 +30,7 @@ module.exports = {
     name: 'aisetup',
     aliases: ['aiconfig', 'setai'],
     description: 'AI bot ka naam, owner name aur model configure karo.',
-    usage: 'aisetup | aisetup name <naam> | aisetup owner <naam> | aisetup model <model> | aisetup on/off',
+    usage: 'aisetup | aisetup name <naam> | aisetup owner <Raja g> | aisetup model <model> | aisetup on/off',
     category: 'Admin',
     prefix: true,
     adminOnly: true,
