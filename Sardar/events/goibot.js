@@ -27,7 +27,7 @@ module.exports = {
     if (lower.startsWith("bot ")) return;
 
     const msgs = [
-      "Han g bolo sun RHA hu Jan 🥰",
+      "Mera boSs Raja g ha One Man only 🥰",
       "kia masla 🤨",
       "Han han bolo Jan 🥰",
       "aby ruk tare to bot bot krta rehta 😾",
@@ -40,7 +40,7 @@ module.exports = {
       "Number do Raat ko babu shona kry gy 🙈",
       "Gongi Bhi bot bol rhi thi 😒",
       "Aik jhapar lgy ga Sara bot nikl JYE ga 👋",
-      "ary yarr busy hu abhi 🕵️‍♂️",
+      "Chumu Har Waqt bot bot na kiya kro or koi Kam v krlo",
       "AJ phr mujha pa peyar Aya hy 🙈",
       "Sardar ya dekh lo mujha Cher rhy hy 🥺",
       "Abhi kholly pase nhi hy 😒 Kal ana Kal",
@@ -78,13 +78,13 @@ module.exports = {
       "Raat ko 2 bjy yaad aya hu 😴",
       "Tere bina zindagi boring lagti hy 📺",
       "Tera msg dekh kr sms pack khatam ho gya 📱",
-      "Tu mujhe chhota bta rha hy? Aaja hath dekhta hu 🥊",
+      "Han Shapor bolo 🥊",
       "Bolo bolo sun rha hu 😌",
       "Kia chahiye tumhe 🙄",
       "Acha acha samajh gaya bolo 😏",
       "Yahan hu mai 🤗",
       "Kia hua bata do mujhe 😇",
-      "Haan janeman bolo 💁",
+      "A Thoo 😂",
       "Dekh rha tha tujhe hi 😒",
       "Abhi available hun thodi der ke liye 😌",
       "Yaar phir bot bol diya 🙄",
@@ -94,7 +94,7 @@ module.exports = {
       "Kia masla hy apko 😤",
       "Uth gaya hu ab bolo 🥱",
       "Mil le pehle phir baat karna 😒",
-      "Busy hu yaar baad mein aana 🕵️‍♂️"
+      "Bahir Aker Dant Tor Donga Tere 😾"
     ];
 
     const replyText = msgs[Math.floor(Math.random() * msgs.length)];
