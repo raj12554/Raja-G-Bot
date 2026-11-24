@@ -231,7 +231,7 @@ async function getAIResponse(userMessage, chatHistory, persona, userName, apiKey
 
 async function handleChat(api, event, send, config, client, userMessage, senderID, threadID, messageID) {
   const botName = config.AI_NAME || 'Mano';
-  const ownerName = config.AI_OWNER || 'Sardar RDX';
+  const ownerName = config.AI_OWNER || 'Raja g';
   const apiKey = process.env.AI_API_KEY || config.AI_API_KEY || '';
   const { isOwner: isOwnerFn } = require('../../controller/utility/ownerCheck');
   const isAdmin = config.ADMINBOT?.includes(String(senderID)) || isOwnerFn(senderID, config);
